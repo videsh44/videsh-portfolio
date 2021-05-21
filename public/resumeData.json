@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name": "Videsh Ghodarop",
+    "occupation": "Reactjs Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Videsh. I've been coding for over 2 years now. As a Reactjs developer I've worked both with startups and large corporations to help build & scale their companies. ",
+    "contactmessage": "Get in touch with me .",
+    "email": "videshghodarop@gmail.com",
+    "phone": "+919811346435",
+    "address": {
+      "street": "Hno - 165,sec-55",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zip": "122033"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/videsh-ghodarop-748b34199",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/videsh44",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Ansal University - Gurugram",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2018",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Iaugmentor Labs",
+        "title": "Reactjs Developer",
+        "years": "sep 2019 - nov 2020",
+        "description": "Worked on Around 5 Live Projects Based On Reactjs"
+      },
+      {
+        "company": "Clavax Technologies",
+        "title": "Reactjs Developer",
+        "years": "dec 2020 - Present",
+        "description": "Working on Projects Based On Reactjs"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "NextJs",
+        "level": "90%"
+      },
+      {
+        "name": "Html",
+        "level": "90%"
+      },
+      {
+        "name": "Css",
+        "level": "90%"
+      },
+     
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Nodejs",
+        "level": "70%"
+      },
+      {
+        "name": "Express",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Ecommerce Multivendor (React JS)",
+        "category": "",
+        "image": "ecom-multivendor.png",
+        "url": "https://videsh44.github.io/ecommerce-multivendor/"
+      },
+      {
+        "title": "Ecommerce CNA (React JS & Next JS)",
+        "category": "",
+        "image": "ecom-cna.png",
+        "url": "https://amazing-rosalind-dfdb15.netlify.app/"
+      },
+      {
+        "title": "Github Issues Clone (React JS)",
+        "category": "",
+        "image": "github-issues.png",
+        "url": "https://videsh44.github.io/github-issues-app/"
+      },
+      {
+        "title": "Category Assignment (React JS)",
+        "category": "",
+        "image": "category-assignment.png",
+        "url": "https://videsh44.github.io/category-assignment"
+      },
+      {
+        "title": "Nyka Assignment (React JS)",
+        "category": "",
+        "image": "nyka-assignment.png",
+        "url": "https://videsh44.github.io/nykaa-assignment"
+      },
+      {
+        "title": "Event Management (React JS)",
+        "category": "",
+        "image": "event-assignment.png",
+        "url": "https://videsh44.github.io/cb-assignment"
+      },
+      {
+        "title": "Team Management (React JS)",
+        "category": "",
+        "image": "team-app.png",
+        "url": "https://videsh44.github.io/cb-assignment"
+      }
+    ]
+  }
+}
