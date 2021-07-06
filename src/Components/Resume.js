@@ -5,7 +5,7 @@ const Resume = ({ data }) => {
     var skillmessage = data.skillmessage;
     var education = data.education.map(function (education) {
       return (
-        <div key={education.school}>
+        <div style={{textAlign:'center'}} key={education.school}>
           <h3>{education.school}</h3>
           <p className="info">
             {education.degree} <span>&bull;</span>
@@ -17,7 +17,7 @@ const Resume = ({ data }) => {
     });
     var work = data.work.map(function (work) {
       return (
-        <div key={work.company}>
+        <div style={{textAlign:'center'}} key={work.company}>
           <h3>{work.company}</h3>
           <p className="info">
             {work.title}
