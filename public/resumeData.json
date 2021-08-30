@@ -98,6 +98,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "RI Marketplace - Real State (React JS)",
+        "category": "",
+        "image": "rimarket.png",
+        "url": "https://rimarketplace.dev/"
+      },
+      {
         "title": "Ecommerce Multivendor (React JS)",
         "category": "",
         "image": "ecom-multivendor.png",
