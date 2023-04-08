@@ -22,6 +22,7 @@ const About = ({ data }) => {
             className="profile-pic"
             src={profilepic}
             alt="Videsh's Profile Pic"
+            loading="lazy"
           />
         </div>
         <div className="nine columns main-col">

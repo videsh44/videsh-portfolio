@@ -13,7 +13,7 @@ const Portfolio = ({ data }) => {
               href={projects.url}
               title={projects.title}
             >
-              <img alt={projects.title} src={projectImage} />
+              <img loading="lazy" alt={projects.title} src={projectImage} />
               <div className="overlay">
                 <div className="portfolio-item-meta">
                   <h5>{projects.title}</h5>

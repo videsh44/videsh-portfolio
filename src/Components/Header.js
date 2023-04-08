@@ -1,5 +1,4 @@
 import React from 'react';
-import TypeWriter from 'react-typewriter';
 
 const Header = ({ data }) => {
   if (data) {
@@ -49,11 +48,6 @@ const Header = ({ data }) => {
               Works
             </a>
           </li>
-          {/* <li>
-            <a className="smoothscroll" href="#testimonials">
-              Testimonials
-            </a>
-          </li> */}
           <li>
             <a className="smoothscroll" href="#contact">
               Contact
@@ -64,9 +58,7 @@ const Header = ({ data }) => {
 
       <div className="row banner">
         <div className="banner-text">
-          <h1 className="responsive-headline">
-            <TypeWriter typing={0.5}>{`I'm ${name}.`}</TypeWriter>
-          </h1>
+          <h1 className="responsive-headline">{`I'm ${name}.`}</h1>
           <h3>
             Based in {city}. <span>{occupation}</span>. {description}.
           </h3>
