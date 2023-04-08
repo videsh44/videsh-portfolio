@@ -77,6 +77,14 @@
       {
         "name": "NextJs",
         "level": "90%"
+      },  
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Redux",
+        "level": "90%"
       },
       {
         "name": "Html",
@@ -86,19 +94,24 @@
         "name": "Css",
         "level": "90%"
       },
-     
       {
-        "name": "JavaScript",
+        "name": "Scss/Sass",
         "level": "90%"
       },
       {
-        "name": "Nodejs",
-        "level": "70%"
+        "name": "React Testing Library",
+        "level": "90%"
       },
       {
-        "name": "Express",
+        "name": "Jest",
+        "level": "90%"
+      },
+     
+      {
+        "name": "Typescript",
         "level": "70%"
       },
+      
       {
         "name": "Git",
         "level": "70%"
