@@ -1,10 +1,10 @@
 {
   "main": {
-    "name": "Videsh Ghodarop",
+    "name": "Videsh Gujjar",
     "occupation": "Reactjs Developer",
     "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Videsh. I've been coding for over 2 years now. As a Reactjs developer I've worked both with startups and large corporations to help build & scale their companies. ",
+    "image": "profilepic.webp",
+    "bio": "Experienced React js Developer helping companies to build complex web applications serving 1,00,000 users with react and modern technologies. Skilled in javascript, typescript, nextjs, redux, HTML, css, scss/sass, react testing library, jest and git. Strong engineering professional with a Bachelor of Technology - BTech focused in Computer Science from Ansal University Gurgaon.",
     "contactmessage": "Get in touch with me .",
     "email": "videshghodarop@gmail.com",
     "phone": "+919811346435",
@@ -42,18 +42,32 @@
       }
     ],
     "work": [
+      
+      {
+        "company": "Sendinblue",
+        "title": "Reactjs Developer",
+        "years": "jan 2023 - present",
+        "description": "Working on Projects Based On Reactjs"
+      },
+      {
+        "company": "Publicis Sapient",
+        "title": "Reactjs Developer",
+        "years": "dec 2021 - jan 2023",
+        "description": "Worked on Projects Based On Reactjs"
+      },
+      {
+        "company": "Clavax Technologies",
+        "title": "Reactjs Developer",
+        "years": "dec 2020 - nov 2021",
+        "description": "Worked on Projects Based On Reactjs"
+      },
       {
         "company": "Iaugmentor Labs",
         "title": "Reactjs Developer",
         "years": "sep 2019 - nov 2020",
         "description": "Worked on Around 5 Live Projects Based On Reactjs"
-      },
-      {
-        "company": "Clavax Technologies",
-        "title": "Reactjs Developer",
-        "years": "dec 2020 - Present",
-        "description": "Working on Projects Based On Reactjs"
       }
+     
     ],
     "skills": [
       {
@@ -98,52 +112,28 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Sendinblue - digital marketing tool",
+        "category": "",
+        "image": "sendinblueAPP.webp",
+        "url": "https://www.sendinblue.com/"
+      },
+      {
         "title": "RI Marketplace - Real State (React JS)",
         "category": "",
-        "image": "rimarket.png",
+        "image": "rimarket.webp",
         "url": "https://rimarketplace.dev/"
+      },
+      {
+        "title": "Loamoa App",
+        "category": "",
+        "image": "loamoaApp.webp",
+        "url": "https://loamoa.cladev.com/"
       },
       {
         "title": "Ecommerce Multivendor (React JS)",
         "category": "",
-        "image": "ecom-multivendor.png",
+        "image": "ecom-multivendor.webp",
         "url": "https://videsh44.github.io/ecommerce-multivendor/"
-      },
-      {
-        "title": "Ecommerce CNA (React JS & Next JS)",
-        "category": "",
-        "image": "ecom-cna.png",
-        "url": "https://amazing-rosalind-dfdb15.netlify.app/"
-      },
-      {
-        "title": "Github Issues Clone (React JS)",
-        "category": "",
-        "image": "github-issues.png",
-        "url": "https://videsh44.github.io/github-issues-app/"
-      },
-      {
-        "title": "Category Assignment (React JS)",
-        "category": "",
-        "image": "category-assignment.png",
-        "url": "https://videsh44.github.io/category-assignment"
-      },
-      {
-        "title": "Nyka Assignment (React JS)",
-        "category": "",
-        "image": "nyka-assignment.png",
-        "url": "https://videsh44.github.io/nykaa-assignment"
-      },
-      {
-        "title": "Event Management (React JS)",
-        "category": "",
-        "image": "event-assignment.png",
-        "url": "https://videsh44.github.io/cb-assignment"
-      },
-      {
-        "title": "Team Management (React JS)",
-        "category": "",
-        "image": "team-app.png",
-        "url": "https://videsh44.github.io/cb-assignment"
       }
     ]
   }
